@@ -151,9 +151,9 @@ Chamuscar: Removido da arvore vermelha e agora pertence a arvore de roxa.
 | Item | Preço | Atributos (Antes → Depois) | Outras Mudanças |
 | --- | --- | --- | --- |
 | **Botas de Placa de Ferro** | 1350 → 900 | Regen Vida: 100% → 50%                                  Armadura: 35 → 20 | Passiva **Bloqueio** removida |
-| **Passos de Mercúrio** | 1350 → 900 | Regen Vida: 100% → 50%                          Resistência Mágica: 35 → 20 | Redução de dano mágico removida |
+| **Passos de Mercúrio** | 1350 → 900 | Regen Vida: 100% → 50%                          Resistência Mágica: 35 → 20 | PAssiva de Redução de dano mágico removida |
 | **Botas da Ganância** | 1400 → 900 | Dano de Ataque: 35 → 10 | — |
-| **Botas da Lucidez** | 1400 → 900 | Regen Mana: 150% → 0                              Aceleração de Habilidade:  20 → 15                           Vida: 150 → 100 | Balanceamento removido |
+| **Botas da Lucidez** | 1400 → 900 | Regen Mana: 150% → 0                              Aceleração de Habilidade:  20 → 15                           Vida: 150 → 100 | Passiva de regen de vida removida |
 | **Grevas do Berserker** | 1400 → 900 | Dano de Ataque: 15 → 0                                      Velocidade de Ataque: 35% → 25% | — |
 | **Botas de Mana** | 1400 → 900 | Poder de Habilidade: 45 → 15                            Regen Mana: 150% → 100% | Novo: sem mana ganha +50% regen de vida |
 | **Botas Explosivas** | 1400 → 900 | Dano de Ataque: 30 → 10                           Penetração de Armadura: 10 → 8 | — |
