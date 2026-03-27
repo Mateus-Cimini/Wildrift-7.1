@@ -8,8 +8,10 @@ const html = `
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Meu Markdown</title>
+  <title>Wild rift 7.1 </title>
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
   ${marked(md)}
 </body>
